@@ -1,5 +1,41 @@
 # Changelog
 
+## [1.22.15](https://github.com/mattstratton/castanet/tree/1.22.15) (2025-05-21)
+
+**Implemented enhancements:**
+
+- Add support for Fathom Analytics [\#442](https://github.com/mattstratton/castanet/pull/442) ([cbrake](https://github.com/cbrake))
+
+## [v2.0.0-beta.5](https://github.com/mattstratton/castanet/tree/v2.0.0-beta.5) (2025-05-21)
+
+## [v2.0.0-beta.4](https://github.com/mattstratton/castanet/tree/v2.0.0-beta.4) (2025-05-20)
+
+**Implemented enhancements:**
+
+- \[ENHANCEMENT\] - Modernize distribution [\#419](https://github.com/mattstratton/castanet/issues/419)
+
+## [v2.0.0-beta.3](https://github.com/mattstratton/castanet/tree/v2.0.0-beta.3) (2025-05-17)
+
+## [v2.0.0-beta.2](https://github.com/mattstratton/castanet/tree/v2.0.0-beta.2) (2025-05-17)
+
+**Fixed bugs:**
+
+- \[BUG\] - example site \(from README\) 404s [\#437](https://github.com/mattstratton/castanet/issues/437)
+
+## [v2.0.0-beta.1](https://github.com/mattstratton/castanet/tree/v2.0.0-beta.1) (2025-05-14)
+
+## [v1.22.14](https://github.com/mattstratton/castanet/tree/v1.22.14) (2025-05-13)
+
+## [v1.22.13](https://github.com/mattstratton/castanet/tree/v1.22.13) (2025-05-10)
+
+## [1.22.12](https://github.com/mattstratton/castanet/tree/1.22.12) (2025-05-10)
+
+**Fixed bugs:**
+
+- Google Podcasts links can be removed as it's no longer available [\#432](https://github.com/mattstratton/castanet/issues/432)
+
+## [v1.22.11](https://github.com/mattstratton/castanet/tree/v1.22.11) (2024-01-06)
+
 ## [1.22.10](https://github.com/mattstratton/castanet/tree/1.22.10) (2024-01-05)
 
 ## [1.22.9](https://github.com/mattstratton/castanet/tree/1.22.9) (2024-01-05)
@@ -650,9 +686,9 @@
 
 - move default image into theme static image directory [\#13](https://github.com/mattstratton/castanet/issues/13)
 
-## [v.0.1.1](https://github.com/mattstratton/castanet/tree/v.0.1.1) (2016-09-25)
-
 ## [v0.1.0](https://github.com/mattstratton/castanet/tree/v0.1.0) (2016-09-25)
+
+## [v.0.1.1](https://github.com/mattstratton/castanet/tree/v.0.1.1) (2016-09-25)
 
 ## [v0.1](https://github.com/mattstratton/castanet/tree/v0.1) (2016-09-25)
 

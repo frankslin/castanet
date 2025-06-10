@@ -4,7 +4,7 @@ title = "HugoCast"
 theme = "castanet"
 googleAnalytics = ""
 themesdir = "../.."
-paginate = "9"
+pagination.pagerSize = "9"
 buildFuture = true
 
 [taxonomies]
@@ -90,7 +90,6 @@ youtube_subscribe = "https://www.youtube.com/arresteddevops?sub_confirmation=1"
 itunes_subscribe = "https://podcasts.apple.com/us/podcast/arrested-devops/id773888088?ign-mpt=uo%3D4&mt=2"
 android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
 spotify_subscribe = "https://open.spotify.com/show/..."
-google_play_subscribe = "https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYXJyZXN0ZWRkZXZvcHMuY29tL2VwaXNvZGUvaW5kZXgueG1s"
 stitcher_subscribe = "http://www.stitcher.com/podcast/arrested-devops-2/arrested-devops"
 soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
@@ -99,6 +98,10 @@ mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4
 description = "The HugoCast is the best podcast you've ever seen. You will learn everything you ever needed to know about [podcasting](https://en.wikipedia.org/wiki/Podcast) from the most inspiring experts to ever show up on the whole internet."
 media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
 disqusShortname = ""
+  # If you want to use fathom(https://usefathom.com) for analytics, add this section
+  [params.fathomAnalytics]
+    siteID = "ABCDE"
+
   [params.feed]
     copyright = "Copyright 2020 Matt Stratton" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "The best podcast ever" #no markdown or HTML
